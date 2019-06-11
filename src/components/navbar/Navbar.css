@@ -1,0 +1,26 @@
+.navbar {
+  background-color: rgb(117, 159, 46);
+
+  text-align: left;
+  padding-top: 0px;
+  padding-bottom: 0px
+
+
+}
+
+
+/* to remove bullet points */
+ul {
+  list-style-type: none;
+
+}
+
+li {
+  display: inline-block;
+  margin-left: 20px;
+  padding: 20px;
+}
+
+
+
+ 
